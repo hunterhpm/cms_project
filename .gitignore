@@ -1,0 +1,8 @@
+/venv/
+/env/
+/static/
+/.idea/
+/frontend/node_modules/
+*/__pycache__/*
+project.db
+/frontend/
