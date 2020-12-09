@@ -1,0 +1,1 @@
+export const REACT_BASE_URL="new_admin";
